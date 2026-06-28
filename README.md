@@ -31,6 +31,7 @@ const anudeepthi = {
     "JavaScript,
     "TypeScript",
     "Redux",
+    "TanStack Query",
     "Tailwind CSS",
     "Bootsrap",
     "HTML",
